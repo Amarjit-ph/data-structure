@@ -24,7 +24,7 @@ A data structure is a special way of organizing and storing information on a com
 
 Think of it like a smart way to arrange books on a shelf or tools in a toolbox, so you can find and use them quickly and easily. Different data structures help with different tasks, like making lists, managing orders, or connecting related items.
 
-<img src="./Diagram/1-Data-structure-toolbox-example.png" />
+<img src="./Diagram/Data-structure-toolbox-example.png" />
 
 <b>Definition</b><br/>
 A data structure is a specialized format for organizing, managing, and storing data in a computer so that it can be accessed and modified efficiently. It defines the relationship between data, the operations that can be performed on the data, and the constraints on the data. Common data structures include arrays, linked lists, stacks, queues, trees, graphs, and hash tables, each suited to different kinds of applications and tasks.
