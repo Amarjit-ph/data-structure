@@ -37,4 +37,6 @@ Think of it like a smart way to arrange books on a shelf or tools in a toolbox, 
 In essence, just as a well-organized toolbox enhances productivity in handling physical tools, efficient data structures in computer science enhance software performance and usability by organizing, managing, storing, and using data effectively.
 
 #### Definition
-A data structure is a specialized format for organizing, managing, and storing data in a computer so that it can be accessed and modified efficiently. It defines the relationship between data, the operations that can be performed on the data, and the constraints on the data. Common data structures include arrays, linked lists, stacks, queues, trees, graphs, and hash tables, each suited to different kinds of applications and tasks.
+A data structure is a specialized format for organizing, managing, and storing data in a computer so that it can be accessed and modified efficiently. It defines the relationship between data, the operations that can be performed on the data, and the constraints on the data. 
+
+Common data structures include arrays, linked lists, stacks, queues, trees, graphs, and hash tables, each suited to different kinds of applications and tasks.
