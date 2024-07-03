@@ -26,7 +26,7 @@ Think of it like a smart way to arrange books on a shelf or tools in a toolbox, 
 
 <img src="./diagrams/1-Data-structure-toolbox-example.png" />
 
-- Manage: Just as you manage tools in different sections of a toolbox, in computer science, you manage data using data structures such as arrays, lists, and dictionaries. Each data structure is designed to organize and manage data efficiently for specific tasks.
+- Manage: Just as you manage tools in different sections of a toolbox, in a computer, you manage data using data structures such as arrays, lists, and dictionaries. Each data structure is designed to organize and manage data efficiently for specific tasks.
 
 - Organize: Similar to organizing tools by type in a toolbox, in programming, data structures organize data elements logically. For example, arrays arrange data in a linear format, while trees organize data hierarchically, making it easier to access and manipulate.
 
