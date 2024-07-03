@@ -22,7 +22,7 @@ So, sit back, relax, and make this journey enjoyable. Together, we’ll laugh, l
 # What is data structure?
 A data structure is a special way of organizing and storing information on a computer so it can be used effectively.
 
-Think of it like a smart way to arrange books on a shelf or tools in a toolbox, so you can find and use them quickly and easily. Different data structures help with different tasks, like making lists, managing orders, or connecting related items.
+Think of it like a smart way to arrange tools in a toolbox, so you can find and use them quickly and easily. Different data structures help with different tasks, like making lists, managing orders, or connecting related items. Here is an example
 
 <img src="./diagrams/1-Data-structure-toolbox-example.png" />
 
