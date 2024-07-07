@@ -15,8 +15,6 @@ Welcome to the data structure made simple course by Amarjit Pheiroijam, where le
 
 Think of me as your friendly guide through this course—no boring lectures here, just interesting topics and amazing diagrams that won’t make you fall asleep.
 
-Ever thought learning was like eating karela? Not tasty, but necessary? Well, this course is like a plate of pani puri—delicious, exciting, and you’ll keep returning for more!
-
 So, sit back, relax, and make this journey enjoyable. Together, we’ll laugh, learn, and maybe even surprise our friends with how much fun education can be. Welcome aboard, and let’s get started!
  
 # What is data structure?
