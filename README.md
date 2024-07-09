@@ -88,7 +88,9 @@ Application: Organizing files into directories (folders).
 
 Real-World Example: Consider a file system where directories (folders) act as keys in a hash map, and files are stored within these directories.
 
-<img src="./diagrams/data-structure-example/7-Hash-Table.png" />
+<img src="./diagrams/data-structure-example/5-Hash.png" />
+
+<img src="./diagrams/data-structure-example/5-Hash-Ex.png" />
 
 ### 6. Tree
 
@@ -98,11 +100,14 @@ Real-World Example: An organizational chart representing the hierarchy within a 
 
 <img src="./diagrams/data-structure-example/4-Tree.png" />
 
+<img src="./diagrams/data-structure-example/4-Tree-Ex.png" />
+
 ### 7. Graph
 
 Application: Representing maps for navigation (e.g., Google Maps).
 
 Real-World Example: Google Maps uses a graph where intersections are nodes and roads are edges. The graph helps in finding the shortest path, calculating distances, and providing navigation directions. 
 
+<img src="./diagrams/data-structure-example/6-Graph.png" />
 
-<img src="./diagrams/data-structure-example/5-Graph.png" />
+<img src="./diagrams/data-structure-example/6-Graph-Ex.png" />
