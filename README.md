@@ -50,7 +50,7 @@ Real-World Example: A temperature sensor array in a weather monitoring system re
 
 The array could look like this: [90,92,94,96,98,99,102,106,109, ...]
 
-<img src="./diagrams/data-structure-example/1-Array.png">
+<img src="./diagrams/data-structure-example/1-Array-1.png">
 
 ### 2. Linked List
 
