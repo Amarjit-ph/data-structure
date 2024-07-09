@@ -90,7 +90,7 @@ Real-World Example: Consider a file system where directories (folders) act as ke
 
 <img src="./diagrams/data-structure-example/5-Hash.png" />
 
-<img src="./diagrams/data-structure-example/5-Hash-Ex.png" />
+<img src="./diagrams/data-structure-example/real-world/01-Hash.png" />
 
 ### 6. Tree
 
@@ -100,7 +100,8 @@ Real-World Example: An organizational chart representing the hierarchy within a 
 
 <img src="./diagrams/data-structure-example/4-Tree.png" />
 
-<img src="./diagrams/data-structure-example/4-Tree-Ex.png" />
+<img src="./diagrams/data-structure-example/real-world/03-Tree.png" />
+
 
 ### 7. Graph
 
@@ -110,4 +111,4 @@ Real-World Example: Google Maps uses a graph where intersections are nodes and r
 
 <img src="./diagrams/data-structure-example/6-Graph.png" />
 
-<img src="./diagrams/data-structure-example/6-Graph-Ex.png" />
+<img src="./diagrams/data-structure-example/real-world/02-Graph.png" />
