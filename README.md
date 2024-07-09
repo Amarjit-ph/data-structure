@@ -61,7 +61,7 @@ Real-World Example: Each song points to the next song in the playlist. A linked 
 The playlist could look like:
 Song1 -> Song2 -> Song3 -> Song4
 
-<img src="./diagrams/data-structure-example/2-LinkedList.png">
+<img src="./diagrams/data-structure-example/2-LinkedList1.png">
 
 
 ### 3. Stack
@@ -80,7 +80,7 @@ Application: Print job management in printers.
 
 Real-World Example: Print jobs are added to the printer queue in the order they are received. The printer processes the jobs in a first-come, first-served manner.
 
-<img src="./diagrams/data-structure-example/3-Queue.png">
+<img src="./diagrams/data-structure-example/3-Queue1.png">
 
 ### 5. Hash Table (Hash Map)
 
