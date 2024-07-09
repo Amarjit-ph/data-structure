@@ -70,7 +70,7 @@ Application: Undo functionality in text editors.
 
 Real-World Example: Each action (like typing or deleting text) is pushed onto the stack. To undo an action, the editor pops the last action off the stack and reverts it.
 
-<img src="./diagrams/data-structure-example/stack-bd1.png">
+<img src="./diagrams/data-structure-example/4-Stack.png">
 
 
 
