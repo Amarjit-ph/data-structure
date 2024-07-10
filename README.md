@@ -9,6 +9,7 @@ Happy learning, and let's dive in!
 - **Getting Started**
   - Introduction
   - What is data structure?
+  - Real-world examples for data structures
 
 # Introduction
 Welcome to the data structure made simple course by Amarjit Pheiroijam, where learning is as exciting as a Netflix blockbuster! Grab your chai, settle in, and get ready for an adventure that’s more fun than a cricket match between India and Pakistan.
@@ -40,9 +41,10 @@ A data structure is a specialized format for organizing, managing, and storing d
 Common data structures include arrays, linked lists, stacks, queues, trees, graphs, and hash tables, each suited to different kinds of applications and tasks.
 
 
-### Here are real-world examples for various data structures:
+# Real-world examples for data structures
 
 ### 1. Array
+A collection of items stored at contiguous memory locations. All items are of the same type and can be accessed using an index.
 
 Application: Storing a list of temperatures recorded every hour in a day.
 
@@ -53,6 +55,7 @@ The array could look like this: [90,92,94,96,98,99,102,106,109, ...]
 <img src="./diagrams/data-structure-example/1-Array-1.png">
 
 ### 2. Linked List
+A sequence of elements where each element points to the next. It allows for efficient insertion and deletion.
 
 Application: Music playlist in a media player.
 
@@ -65,6 +68,7 @@ Song1 -> Song2 -> Song3 -> Song4
 
 
 ### 3. Stack
+A collection that follows the Last In First Out (LIFO) principle. Elements can only be added or removed from the top.
 
 Application: Undo functionality in text editors.
 
@@ -75,6 +79,7 @@ Real-World Example: Each action (like typing or deleting text) is pushed onto th
 
 
 ### 4. Queue
+A collection that follows the First In First Out (FIFO) principle. Elements are added at the back and removed from the front.
 
 Application: Print job management in printers.
 
@@ -83,7 +88,8 @@ Real-World Example: Print jobs are added to the printer queue in the order they 
 <img src="./diagrams/data-structure-example/3-Queue1.png">
 
 ### 5. Hash Table (Hash Map)
-
+A data structure that maps keys to values for efficient lookup. It uses a hash function to compute an index into an array of buckets or slots.
+ 
 Application: Organizing files into directories (folders).
 
 Real-World Example: Consider a file system where directories (folders) act as keys in a hash map, and files are stored within these directories.
@@ -93,6 +99,7 @@ Real-World Example: Consider a file system where directories (folders) act as ke
 <img src="./diagrams/data-structure-example/real-world/01-Hash.png" />
 
 ### 6. Tree
+A hierarchical structure with a root value and subtrees of children, represented as a set of linked nodes.
 
 Application: Representing the hierarchy within a company.
 
@@ -104,6 +111,7 @@ Real-World Example: An organizational chart representing the hierarchy within a 
 
 
 ### 7. Graph
+A collection of nodes (vertices) and edges connecting some or all pairs of nodes. Can be directed or undirected.
 
 Application: Representing maps for navigation (e.g., Google Maps).
 
