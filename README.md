@@ -120,3 +120,7 @@ Real-World Example: Google Maps uses a graph where intersections are nodes and r
 <img src="./diagrams/data-structure-example/6-Graph.png" />
 
 <img src="./diagrams/data-structure-example/real-world/02-Graph.png" />
+
+
+AMORTIZED TIME COMPLEXITY
+Amortized time complexity is a way to measure the average time taken to perform an operation in a sequence of operations, when some operations are slow and others are fast. It's useful when the cost of operations varies based on the state of the data structure or time.
